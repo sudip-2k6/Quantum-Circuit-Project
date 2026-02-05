@@ -1,7 +1,7 @@
 # Quantum-Circuit-Project
 
 
-Components Used
+#Components Used
 Arduino UNO 
 16x2 I2C LCD 
 Laser Module 
