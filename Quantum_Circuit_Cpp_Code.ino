@@ -6,7 +6,7 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 #define BIT0 2   // LDR 1  (|0>)  → D2
-#define BIT1 7   // LDR 2  (|1>)  → **D7 (changed)**
+#define BIT1 7   // LDR 2  (|1>)  → D7
 #define LASER 8  // Laser control pin
 
 void setup() {
