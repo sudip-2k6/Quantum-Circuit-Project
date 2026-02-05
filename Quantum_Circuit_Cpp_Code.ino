@@ -1,6 +1,8 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
+//Copyright https://github.com/sudip-2k6/Quantum-Circuit-Project
+
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 #define BIT0 2   // LDR 1  (|0>)  → D2
@@ -64,7 +66,7 @@ void loop() {
     if(b1 == 1) count1++;
 
     delay(5);
-  }
+  } // Copyright https://github.com/sudip-2k6/Quantum-Circuit-Project
 
   float p0 = (count0 * 100.0) / samples;
   float p1 = (count1 * 100.0) / samples;
