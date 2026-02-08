@@ -33,13 +33,13 @@ probabilistic outcomes on a **16x2 I2C LCD**.
 
   Component   Arduino Pin
   ----------- -------------
-  Laser VCC   D8
-  LDR #1 DO   D2
-  LDR #2 DO   D7
-  LCD SDA     A4
-  LCD SCL     A5
-  All VCC     5V
-  All GND     GND
+  -Laser VCC   D8
+  -LDR #1 DO   D2
+  -LDR #2 DO   D7
+  -LCD SDA     A4
+  -LCD SCL     A5
+  -All VCC     5V
+  -All GND     GND
 
 ------------------------------------------------------------------------
 
