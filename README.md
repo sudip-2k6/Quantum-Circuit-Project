@@ -11,7 +11,7 @@ probabilistic outcomes on a **16x2 I2C LCD**.
 
 ## ✨ Features
 
--   Laser controlled by Arduino pin **D8** (2-second startup delay)\
+-   Laser controlled by Arduino 
 -   Dual light-path detection using **two LM393 LDR modules**\
 -   Real-time probability display: **P(0)** and **P(1)**\
 -   Shows **`SUPERPOS`** when both paths are detected simultaneously
@@ -70,5 +70,5 @@ or
 This setup visually demonstrates light-based probabilistic behavior with
 simple electronics and clear LCD feedback.
 
-------------------------------------------------------------------------
+
 
