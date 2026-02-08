@@ -80,7 +80,7 @@ void loop() {
   } 
   else {
     lcd.setCursor(0,0);
-    lcd.print("  PROBABILITY");
+    lcd.print("PROBABILITY");
   }
 
   // ---- Side by side probabilities ----
